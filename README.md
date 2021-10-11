@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# You can also run this project using
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+docker run -p 3000:3000 -p 3001:3001 leelakarthik/chat-all
 
 # Getting Started with Create React App
 
